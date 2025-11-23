@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zedd or Zeds Dead?</title>
+    <meta name="description" content="Can you tell the difference between Zedd and Zeds Dead? Test your EDM knowledge!">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Outfit:wght@400;700;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="app">
+        <header>
+            <h1>
+                <span class="zedd-text">Zedd</span>
+                <span class="divider">or</span>
+                <span class="zeds-dead-text">Zeds Dead</span>
+                <span class="question">?</span>
+            </h1>
+            <div class="score-board">
+                <div class="score-item">
+                    <span class="label">Score</span>
+                    <span class="value" id="score">0</span>
+                </div>
+                <div class="score-item">
+                    <span class="label">Streak</span>
+                    <span class="value" id="streak">0</span>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="game-container">
+                <div class="visualizer-container">
+                    <div class="visualizer-ring"></div>
+                    <div class="visualizer-ring"></div>
+                    <div class="visualizer-ring"></div>
+                    <button id="play-btn" class="play-btn" disabled>
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M8 5v14l11-7z" />
+                        </svg>
+                    </button>
+                </div>
+
+                <p id="status-message" class="status-message">Loading...</p>
+
+                <div class="choices">
+                    <button class="choice-btn zedd" data-artist="Zedd">
+                        <span class="artist-name">Zedd</span>
+                    </button>
+                    <button class="choice-btn zeds-dead" data-artist="Zeds Dead">
+                        <span class="artist-name">Zeds Dead</span>
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div id="audio-container"></div>
+        </footer>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>
