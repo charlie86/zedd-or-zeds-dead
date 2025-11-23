@@ -2,7 +2,7 @@ export const songs = [
     {
         "id": "zedd-JzpxJcJwDZ0",
         "artist": "Zedd",
-        "title": "Zedd &amp Jasmine Thompson - Funny (Lyric Video)",
+        "title": "Zedd & Jasmine Thompson - Funny (Lyric Video)",
         "youtubeId": "JzpxJcJwDZ0",
         "startTime": 37,
         "duration": 15,
@@ -38,7 +38,7 @@ export const songs = [
     {
         "id": "zedd--qnyd7Ht9uc",
         "artist": "Zedd",
-        "title": "Zedd &amp Elley Duh\u00e9 - Happy Now (Lyrics)",
+        "title": "Zedd & Elley Duh\u00e9 - Happy Now (Lyrics)",
         "youtubeId": "-qnyd7Ht9uc",
         "startTime": 52,
         "duration": 15,
@@ -47,7 +47,7 @@ export const songs = [
     {
         "id": "zedd-3XENIq1qGFg",
         "artist": "Zedd",
-        "title": "Zedd &amp Cory Wong - Telos Medley (Live from Lollapalooza India)",
+        "title": "Zedd & Cory Wong - Telos Medley (Live from Lollapalooza India)",
         "youtubeId": "3XENIq1qGFg",
         "startTime": 336,
         "duration": 15,
@@ -56,7 +56,7 @@ export const songs = [
     {
         "id": "zedd-DxzdRri8o6o",
         "artist": "Zedd",
-        "title": "Squid Game &amp Do It To It (Zedd Edit)",
+        "title": "Squid Game & Do It To It (Zedd Edit)",
         "youtubeId": "DxzdRri8o6o",
         "startTime": 82,
         "duration": 15,
@@ -227,7 +227,7 @@ export const songs = [
     {
         "id": "zedd-rO4AszPXUjU",
         "artist": "Zedd",
-        "title": "Zedd True Colors - Empire State Building - &quotTrue Colors&quot",
+        "title": "Zedd True Colors - Empire State Building - \"True Colors\"",
         "youtubeId": "rO4AszPXUjU",
         "startTime": 64,
         "duration": 15,
@@ -236,7 +236,7 @@ export const songs = [
     {
         "id": "zedd-Lk2UXk2jXIk",
         "artist": "Zedd",
-        "title": "Zedd &amp Dillon Francis - Stages (Unoriginal Mix)",
+        "title": "Zedd & Dillon Francis - Stages (Unoriginal Mix)",
         "youtubeId": "Lk2UXk2jXIk",
         "startTime": 22,
         "duration": 15,
@@ -263,7 +263,7 @@ export const songs = [
     {
         "id": "zedd-Aloxz8556T8",
         "artist": "Zedd",
-        "title": "Zedd &amp Jasmine Thompson - Funny (Ellis Remix)",
+        "title": "Zedd & Jasmine Thompson - Funny (Ellis Remix)",
         "youtubeId": "Aloxz8556T8",
         "startTime": 62,
         "duration": 15,
@@ -299,7 +299,7 @@ export const songs = [
     {
         "id": "zedd-CCNyou-w9lw",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Osrin Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Osrin Remix)",
         "youtubeId": "CCNyou-w9lw",
         "startTime": 63,
         "duration": 15,
@@ -326,7 +326,7 @@ export const songs = [
     {
         "id": "zedd-Ph30fFQHdjo",
         "artist": "Zedd",
-        "title": "Zedd &amp Jasmine Thompson - Funny (Breathe Carolina Remix)",
+        "title": "Zedd & Jasmine Thompson - Funny (Breathe Carolina Remix)",
         "youtubeId": "Ph30fFQHdjo",
         "startTime": 66,
         "duration": 15,
@@ -362,7 +362,7 @@ export const songs = [
     {
         "id": "zedd-x8QPPmhryEA",
         "artist": "Zedd",
-        "title": "Zedd &amp Skrillex - Don&#39t Slam The Cinema",
+        "title": "Zedd & Skrillex - Don't Slam The Cinema",
         "youtubeId": "x8QPPmhryEA",
         "startTime": 164,
         "duration": 15,
@@ -380,7 +380,7 @@ export const songs = [
     {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Grant Remix)",
         "youtubeId": "A2ZpbmatNV0",
         "startTime": 6,
         "duration": 15,
@@ -389,7 +389,7 @@ export const songs = [
     {
         "id": "zedd-acepQxFF8oE",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (Jonas Blue Remix)",
+        "title": "Zedd & Alessia Cara - Stay (Jonas Blue Remix)",
         "youtubeId": "acepQxFF8oE",
         "startTime": 132,
         "duration": 15,
@@ -398,7 +398,7 @@ export const songs = [
     {
         "id": "zedd-yoh8IfdrqV0",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (Tritonal Remix)",
+        "title": "Zedd & Alessia Cara - Stay (Tritonal Remix)",
         "youtubeId": "yoh8IfdrqV0",
         "startTime": 188,
         "duration": 15,
@@ -434,7 +434,7 @@ export const songs = [
     {
         "id": "zedd-yoh8IfdrqV0",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (Tritonal Remix)",
+        "title": "Zedd & Alessia Cara - Stay (Tritonal Remix)",
         "youtubeId": "yoh8IfdrqV0",
         "startTime": 43,
         "duration": 15,
@@ -443,7 +443,7 @@ export const songs = [
     {
         "id": "zedd-x8QPPmhryEA",
         "artist": "Zedd",
-        "title": "Zedd &amp Skrillex - Don&#39t Slam The Cinema",
+        "title": "Zedd & Skrillex - Don't Slam The Cinema",
         "youtubeId": "x8QPPmhryEA",
         "startTime": 178,
         "duration": 15,
@@ -479,7 +479,7 @@ export const songs = [
     {
         "id": "zedd-CCNyou-w9lw",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Osrin Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Osrin Remix)",
         "youtubeId": "CCNyou-w9lw",
         "startTime": 103,
         "duration": 15,
@@ -488,7 +488,7 @@ export const songs = [
     {
         "id": "zedd-acepQxFF8oE",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (Jonas Blue Remix)",
+        "title": "Zedd & Alessia Cara - Stay (Jonas Blue Remix)",
         "youtubeId": "acepQxFF8oE",
         "startTime": 6,
         "duration": 15,
@@ -506,7 +506,7 @@ export const songs = [
     {
         "id": "zedd-5-q1oB4vIgQ",
         "artist": "Zedd",
-        "title": "Zedd - presenting &#39The Scorpion Move&#39 - OWSLA Tour 2011",
+        "title": "Zedd - presenting 'The Scorpion Move' - OWSLA Tour 2011",
         "youtubeId": "5-q1oB4vIgQ",
         "startTime": 30,
         "duration": 15,
@@ -551,7 +551,7 @@ export const songs = [
     {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Grant Remix)",
         "youtubeId": "A2ZpbmatNV0",
         "startTime": 29,
         "duration": 15,
@@ -569,7 +569,7 @@ export const songs = [
     {
         "id": "zedd-mXHy4xfvq1s",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (The Kemist Remix)",
+        "title": "Zedd & Alessia Cara - Stay (The Kemist Remix)",
         "youtubeId": "mXHy4xfvq1s",
         "startTime": 104,
         "duration": 15,
@@ -578,7 +578,7 @@ export const songs = [
     {
         "id": "zedd-PEcmULnKtVg",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Marc Benjamin Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Marc Benjamin Remix)",
         "youtubeId": "PEcmULnKtVg",
         "startTime": 71,
         "duration": 15,
@@ -596,7 +596,7 @@ export const songs = [
     {
         "id": "zedd-9UgzVlHL4WE",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Soulji Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Soulji Remix)",
         "youtubeId": "9UgzVlHL4WE",
         "startTime": 62,
         "duration": 15,
@@ -605,7 +605,7 @@ export const songs = [
     {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Grant Remix)",
         "youtubeId": "A2ZpbmatNV0",
         "startTime": 61,
         "duration": 15,
@@ -614,7 +614,7 @@ export const songs = [
     {
         "id": "zedd-mXHy4xfvq1s",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (The Kemist Remix)",
+        "title": "Zedd & Alessia Cara - Stay (The Kemist Remix)",
         "youtubeId": "mXHy4xfvq1s",
         "startTime": 97,
         "duration": 15,
@@ -623,7 +623,7 @@ export const songs = [
     {
         "id": "zedd-9UgzVlHL4WE",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Soulji Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Soulji Remix)",
         "youtubeId": "9UgzVlHL4WE",
         "startTime": 76,
         "duration": 15,
@@ -632,7 +632,7 @@ export const songs = [
     {
         "id": "zedd-PEcmULnKtVg",
         "artist": "Zedd",
-        "title": "Zedd &amp Kehlani - Good Thing (Marc Benjamin Remix)",
+        "title": "Zedd & Kehlani - Good Thing (Marc Benjamin Remix)",
         "youtubeId": "PEcmULnKtVg",
         "startTime": 83,
         "duration": 15,
@@ -677,7 +677,7 @@ export const songs = [
     {
         "id": "zedd-m3aiT-U8068",
         "artist": "Zedd",
-        "title": "Zedd &amp Alessia Cara - Stay (Lophiile Remix)",
+        "title": "Zedd & Alessia Cara - Stay (Lophiile Remix)",
         "youtubeId": "m3aiT-U8068",
         "startTime": 142,
         "duration": 15,
@@ -740,7 +740,7 @@ export const songs = [
     {
         "id": "zedd-BPzTsyZ-7fU",
         "artist": "Zedd",
-        "title": "Zedd - Spectrum (feat. Matthew Koma) [A-Trak &amp Clockwork Remix]",
+        "title": "Zedd - Spectrum (feat. Matthew Koma) [A-Trak & Clockwork Remix]",
         "youtubeId": "BPzTsyZ-7fU",
         "startTime": 184,
         "duration": 15,
@@ -749,7 +749,7 @@ export const songs = [
     {
         "id": "zedd-YxmuP2JtgYo",
         "artist": "Zedd",
-        "title": "Zedd &amp Jasmine Thompson - Funny (Marc Benjamin Remix)",
+        "title": "Zedd & Jasmine Thompson - Funny (Marc Benjamin Remix)",
         "youtubeId": "YxmuP2JtgYo",
         "startTime": 139,
         "duration": 15,
@@ -776,7 +776,7 @@ export const songs = [
     {
         "id": "zeds-dead-VJm7IPrBmLY",
         "artist": "Zeds Dead",
-        "title": "&quotLost You (feat. Twin Shadow &amp D&#39Angelo Lacy)&quot (Official Video) | Zeds Dead",
+        "title": "\"Lost You (feat. Twin Shadow & D'Angelo Lacy)\" (Official Video) | Zeds Dead",
         "youtubeId": "VJm7IPrBmLY",
         "startTime": 75,
         "duration": 15,
@@ -821,7 +821,7 @@ export const songs = [
     {
         "id": "zeds-dead-WWHInsHJ_EA",
         "artist": "Zeds Dead",
-        "title": "&quotYou and I&quot (Zeds Dead &amp Omar LinX) (Official Music Video) | Zeds Dead",
+        "title": "\"You and I\" (Zeds Dead & Omar LinX) (Official Music Video) | Zeds Dead",
         "youtubeId": "WWHInsHJ_EA",
         "startTime": 75,
         "duration": 15,
@@ -866,7 +866,7 @@ export const songs = [
     {
         "id": "zeds-dead-H7fbnizq8cA",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - Catching Z&#39s // VISUAL EXPERIENCE DOWNTEMPO MIXTAPE",
+        "title": "Zeds Dead - Catching Z's // VISUAL EXPERIENCE DOWNTEMPO MIXTAPE",
         "youtubeId": "H7fbnizq8cA",
         "startTime": 673,
         "duration": 15,
@@ -1028,7 +1028,7 @@ export const songs = [
     {
         "id": "zeds-dead-WsnUg-dE-1o",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - DNA ft. Jadakiss &amp Styles P",
+        "title": "Zeds Dead - DNA ft. Jadakiss & Styles P",
         "youtubeId": "WsnUg-dE-1o",
         "startTime": 120,
         "duration": 15,
@@ -1037,7 +1037,7 @@ export const songs = [
     {
         "id": "zeds-dead-yymWnXRIV-Q",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead &amp 1000volts (Redman &amp Jayceeoh) - KILL EM",
+        "title": "Zeds Dead & 1000volts (Redman & Jayceeoh) - KILL EM",
         "youtubeId": "yymWnXRIV-Q",
         "startTime": 111,
         "duration": 15,
@@ -1064,7 +1064,7 @@ export const songs = [
     {
         "id": "zeds-dead-rXtwACadNyw",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - Too Young (ft. Rivers Cuomo &amp Pusha T)",
+        "title": "Zeds Dead - Too Young (ft. Rivers Cuomo & Pusha T)",
         "youtubeId": "rXtwACadNyw",
         "startTime": 3,
         "duration": 15,
@@ -1127,7 +1127,7 @@ export const songs = [
     {
         "id": "zeds-dead-C8RlvxHhhzY",
         "artist": "Zeds Dead",
-        "title": "&quotRudeboy&quot (Zeds Dead &amp Omar LinX) (Official Music Video) | Zeds Dead",
+        "title": "\"Rudeboy\" (Zeds Dead & Omar LinX) (Official Music Video) | Zeds Dead",
         "youtubeId": "C8RlvxHhhzY",
         "startTime": 163,
         "duration": 15,
@@ -1136,7 +1136,7 @@ export const songs = [
     {
         "id": "zeds-dead-46HqvYOEcgc",
         "artist": "Zeds Dead",
-        "title": "&quotHadouken&quot (Music Video - #SmirnoffHouse @Tomorrowland) | Zeds Dead",
+        "title": "\"Hadouken\" (Music Video - #SmirnoffHouse @Tomorrowland) | Zeds Dead",
         "youtubeId": "46HqvYOEcgc",
         "startTime": 78,
         "duration": 15,
@@ -1280,7 +1280,7 @@ export const songs = [
     {
         "id": "zeds-dead-plLaK4QWKdE",
         "artist": "Zeds Dead",
-        "title": "The Prodigy - &quotBreathe (Zeds Dead Remix)&quot (Audio) | Zeds Dead",
+        "title": "The Prodigy - \"Breathe (Zeds Dead Remix)\" (Audio) | Zeds Dead",
         "youtubeId": "plLaK4QWKdE",
         "startTime": 100,
         "duration": 15,
@@ -1289,7 +1289,7 @@ export const songs = [
     {
         "id": "zeds-dead-2zX0sKxHXsw",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (Acoustic)",
+        "title": "Zeds Dead - i think you're cool ft. Jenna Pemkowski (Acoustic)",
         "youtubeId": "2zX0sKxHXsw",
         "startTime": 185,
         "duration": 15,
@@ -1316,7 +1316,7 @@ export const songs = [
     {
         "id": "zeds-dead-41ynFhE9kiQ",
         "artist": "Zeds Dead",
-        "title": "Broken Bells - &quotHolding On For Life (Zeds Dead Remix)&quot (Audio) | Zeds Dead",
+        "title": "Broken Bells - \"Holding On For Life (Zeds Dead Remix)\" (Audio) | Zeds Dead",
         "youtubeId": "41ynFhE9kiQ",
         "startTime": 0,
         "duration": 15,
@@ -1334,7 +1334,7 @@ export const songs = [
     {
         "id": "zeds-dead-bldPnqg5ZBU",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead&#39s Northern Lights Bus Tour",
+        "title": "Zeds Dead's Northern Lights Bus Tour",
         "youtubeId": "bldPnqg5ZBU",
         "startTime": 68,
         "duration": 15,
@@ -1343,7 +1343,7 @@ export const songs = [
     {
         "id": "zeds-dead-AuPn_tt4DB4",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (Acoustic Live Performance by Jason Leech)",
+        "title": "Zeds Dead - i think you're cool ft. Jenna Pemkowski (Acoustic Live Performance by Jason Leech)",
         "youtubeId": "AuPn_tt4DB4",
         "startTime": 198,
         "duration": 15,
@@ -1469,7 +1469,7 @@ export const songs = [
     {
         "id": "zeds-dead-efLdKPVYw-c",
         "artist": "Zeds Dead",
-        "title": "&quotRatchet&quot (Audio) | Zeds Dead",
+        "title": "\"Ratchet\" (Audio) | Zeds Dead",
         "youtubeId": "efLdKPVYw-c",
         "startTime": 56,
         "duration": 15,
@@ -1577,7 +1577,7 @@ export const songs = [
     {
         "id": "zeds-dead-Whe9_6Qo6zo",
         "artist": "Zeds Dead",
-        "title": "Colin Munroe feat. Pusha T - &quotThe Fight Of My Life (Zeds Dead Remix) (Audio) | Zeds Dead",
+        "title": "Colin Munroe feat. Pusha T - \"The Fight Of My Life (Zeds Dead Remix) (Audio) | Zeds Dead",
         "youtubeId": "Whe9_6Qo6zo",
         "startTime": 3,
         "duration": 15,
@@ -1595,7 +1595,7 @@ export const songs = [
     {
         "id": "zeds-dead-_4e-rNNGayA",
         "artist": "Zeds Dead",
-        "title": "Holy Ship 2014 - Scotch &amp Cigar Evening (Promo) | Zeds Dead",
+        "title": "Holy Ship 2014 - Scotch & Cigar Evening (Promo) | Zeds Dead",
         "youtubeId": "_4e-rNNGayA",
         "startTime": 35,
         "duration": 15,
@@ -1784,7 +1784,7 @@ export const songs = [
     {
         "id": "zeds-dead-D2RcE2BgocI",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (IMANU x QUIET BISON Remix)",
+        "title": "Zeds Dead - i think you're cool ft. Jenna Pemkowski (IMANU x QUIET BISON Remix)",
         "youtubeId": "D2RcE2BgocI",
         "startTime": 30,
         "duration": 15,
@@ -1829,7 +1829,7 @@ export const songs = [
     {
         "id": "zeds-dead-U8Tsi1KU2IU",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead x MKLA - Alive (X&ampG Remix)",
+        "title": "Zeds Dead x MKLA - Alive (X&G Remix)",
         "youtubeId": "U8Tsi1KU2IU",
         "startTime": 28,
         "duration": 15,
@@ -1838,7 +1838,7 @@ export const songs = [
     {
         "id": "zeds-dead-tT5sQYLfMT4",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (Pocket Remix)",
+        "title": "Zeds Dead - i think you're cool ft. Jenna Pemkowski (Pocket Remix)",
         "youtubeId": "tT5sQYLfMT4",
         "startTime": 19,
         "duration": 15,
