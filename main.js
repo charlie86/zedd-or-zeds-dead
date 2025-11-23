@@ -27,8 +27,8 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
 window.onYouTubeIframeAPIReady = () => {
     state.player = new YT.Player('audio-container', {
-        height: '0',
-        width: '0',
+        height: '1',
+        width: '1',
         playerVars: {
             'playsinline': 1,
             'controls': 0,
