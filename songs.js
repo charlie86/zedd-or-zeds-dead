@@ -171,15 +171,6 @@ export const songs = [
         "totalDuration": 229
     },
     {
-        "id": "zedd-QVpYx2nvJ00",
-        "artist": "Zedd",
-        "title": "Lost in Japan \ud83c\uddef\ud83c\uddf5",
-        "youtubeId": "QVpYx2nvJ00",
-        "startTime": 5,
-        "duration": 15,
-        "totalDuration": 32
-    },
-    {
         "id": "zedd-qGyAntFCZxg",
         "artist": "Zedd",
         "title": "Zedd, Katy Perry - 365 (KUURO Remix)",
@@ -441,15 +432,6 @@ export const songs = [
         "totalDuration": 127
     },
     {
-        "id": "zedd-3RBgJH0QNpg",
-        "artist": "Zedd",
-        "title": "Zedd &amp Cory Wong  - Sona (live from Lollapalooza India)",
-        "youtubeId": "3RBgJH0QNpg",
-        "startTime": 13,
-        "duration": 15,
-        "totalDuration": 34
-    },
-    {
         "id": "zedd-yoh8IfdrqV0",
         "artist": "Zedd",
         "title": "Zedd &amp Alessia Cara - Stay (Tritonal Remix)",
@@ -621,15 +603,6 @@ export const songs = [
         "totalDuration": 166
     },
     {
-        "id": "zedd-XUv9wBR0WKc",
-        "artist": "Zedd",
-        "title": "Zedd - Coachella 2025 [Weekend One]",
-        "youtubeId": "XUv9wBR0WKc",
-        "startTime": 5,
-        "duration": 15,
-        "totalDuration": 32
-    },
-    {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
         "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
@@ -675,15 +648,6 @@ export const songs = [
         "totalDuration": 158
     },
     {
-        "id": "zedd-CmUmCQ0ca0A",
-        "artist": "Zedd",
-        "title": "Sexy Zeddsogram (Homage to Sexy Sax Man)",
-        "youtubeId": "CmUmCQ0ca0A",
-        "startTime": 15,
-        "duration": 15,
-        "totalDuration": 43
-    },
-    {
         "id": "zedd-BweEZKne4g8",
         "artist": "Zedd",
         "title": "Zedd - True Colors Tour: After-Movie",
@@ -720,15 +684,6 @@ export const songs = [
         "totalDuration": 204
     },
     {
-        "id": "zedd-6Tdyba8vLv4",
-        "artist": "Zedd",
-        "title": "RED ROCKS, that was insane!!! \ud83d\udd25 Way to kick off my bday weekend. \ud83c\udf89",
-        "youtubeId": "6Tdyba8vLv4",
-        "startTime": 4,
-        "duration": 15,
-        "totalDuration": 30
-    },
-    {
         "id": "zedd-APD46R4bE5k",
         "artist": "Zedd",
         "title": "Zedd - Stay (Cartoon Version)",
@@ -754,15 +709,6 @@ export const songs = [
         "startTime": 13,
         "duration": 15,
         "totalDuration": 94
-    },
-    {
-        "id": "zedd-P4CIakE_Vyw",
-        "artist": "Zedd",
-        "title": "The debut of El Zedd \ud83c\uddf2\ud83c\uddfd",
-        "youtubeId": "P4CIakE_Vyw",
-        "startTime": 16,
-        "duration": 15,
-        "totalDuration": 41
     },
     {
         "id": "zedd-5xNZUoLEBSY",
@@ -1593,15 +1539,6 @@ export const songs = [
         "totalDuration": 194
     },
     {
-        "id": "zeds-dead-ghCGxp2zYyk",
-        "artist": "Zeds Dead",
-        "title": "HEARTBEAT ft. Minke",
-        "youtubeId": "ghCGxp2zYyk",
-        "startTime": 5,
-        "duration": 15,
-        "totalDuration": 33
-    },
-    {
         "id": "zeds-dead-58Eu_J51Jwc",
         "artist": "Zeds Dead",
         "title": "Zeds Dead Space Oddity NYE Party Announcement",
@@ -1728,15 +1665,6 @@ export const songs = [
         "totalDuration": 119
     },
     {
-        "id": "zeds-dead-UZ5GgBaQUmY",
-        "artist": "Zeds Dead",
-        "title": "Zeds Dead at HARD Summer 2016",
-        "youtubeId": "UZ5GgBaQUmY",
-        "startTime": 19,
-        "duration": 15,
-        "totalDuration": 44
-    },
-    {
         "id": "zeds-dead-HTEdHYxC4Vs",
         "artist": "Zeds Dead",
         "title": "DEADBEATS TORONTO 2016",
@@ -1753,15 +1681,6 @@ export const songs = [
         "startTime": 22,
         "duration": 15,
         "totalDuration": 156
-    },
-    {
-        "id": "zeds-dead-3VbB9mRUfIg",
-        "artist": "Zeds Dead",
-        "title": "Together",
-        "youtubeId": "3VbB9mRUfIg",
-        "startTime": 16,
-        "duration": 15,
-        "totalDuration": 37
     },
     {
         "id": "zeds-dead-uk09NtZoNJw",
@@ -2041,14 +1960,5 @@ export const songs = [
         "startTime": 125,
         "duration": 15,
         "totalDuration": 260
-    },
-    {
-        "id": "zeds-dead-HyC0iIqpm6o",
-        "artist": "Zeds Dead",
-        "title": "ONE OF THESE MORNINGS #zedsdead #dubstep #edm",
-        "youtubeId": "HyC0iIqpm6o",
-        "startTime": 5,
-        "duration": 15,
-        "totalDuration": 42
     }
 ];
