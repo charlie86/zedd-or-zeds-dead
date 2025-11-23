@@ -118,6 +118,7 @@ main {
     flex-direction: column;
     align-items: center;
     gap: 3rem;
+    /* increase vertical spacing */
 }
 
 /* Visualizer / Play Button Area */
@@ -128,6 +129,13 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 2rem;
+    /* increased to separate from scoreboard */
+    margin-bottom: 0.5rem;
+    /* add space below visualizer */
+    border-radius: 50%;
+    overflow: visible;
+    /* allow ripples to expand beyond container */
 }
 
 .play-btn {
@@ -203,6 +211,8 @@ main {
     color: var(--accent-color);
     min-height: 1.5em;
     text-align: center;
+    margin-top: 1rem;
+    /* push status message down */
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
@@ -212,6 +222,8 @@ main {
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
     width: 100%;
+    margin-top: 2rem;
+    /* move buttons further down */
 }
 
 .choice-btn {
