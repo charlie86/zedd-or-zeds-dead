@@ -316,43 +316,51 @@ main {
 /* Mobile Layout */
 @media (max-width: 600px) {
     #app {
-        padding: 1rem;
+        padding: 1.25rem;
     }
 
     h1 {
         display: flex;
         flex-direction: column;
         gap: 0.25rem;
-        font-size: 2rem;
+        font-size: 2.2rem;
         line-height: 1.1;
-        margin-bottom: 1rem;
+        margin-bottom: 1.25rem;
     }
 
     .divider {
-        font-size: 1rem;
+        font-size: 1.1rem;
         margin: 0;
     }
 
+    header {
+        margin-bottom: 1.5rem;
+    }
+
     .game-container {
-        gap: 1.5rem;
+        gap: 2rem;
     }
 
     .visualizer-container {
-        width: 120px;
-        height: 120px;
+        width: 140px;
+        height: 140px;
     }
 
     .play-btn {
-        width: 60px;
-        height: 60px;
+        width: 70px;
+        height: 70px;
+    }
+
+    .status-message {
+        font-size: 1.3rem;
     }
 
     .choice-btn {
-        padding: 1rem;
+        padding: 1.25rem;
     }
 
     .choice-btn .artist-name {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
 }
 
