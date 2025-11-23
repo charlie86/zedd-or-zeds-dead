@@ -129,10 +129,10 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 2rem;
-    /* increased to separate from scoreboard */
-    margin-bottom: 0.5rem;
-    /* add space below visualizer */
+    margin-top: 4rem;
+    /* move further down */
+    margin-bottom: 1rem;
+    /* extra space below */
     border-radius: 50%;
     overflow: visible;
     /* allow ripples to expand beyond container */
@@ -151,6 +151,8 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 0;
+    /* no extra margin, container handles positioning */
 }
 
 .play-btn:hover {
