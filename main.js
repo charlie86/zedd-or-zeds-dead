@@ -116,7 +116,7 @@ function playSong() {
         });
 
         state.isPlaying = true;
-        statusMsg.textContent = "Name that bass drop!";
+        statusMsg.textContent = "Choose wisely";
         statusMsg.style.color = "var(--text-color)";
         updateUI();
 
@@ -156,11 +156,9 @@ function handleGuess(artist) {
         state.streak += 1;
 
         const successMessages = [
-            "Drop the bass! Correct!",
-            "You got it!",
-            "On point! That's right!",
-            "Electric! Correct!",
-            "Nailed it! Perfect drop!"
+            "Correct",
+            "You got it",
+            "Nailed it"
         ];
         const randomMsg = successMessages[Math.floor(Math.random() * successMessages.length)];
 
@@ -177,11 +175,10 @@ function handleGuess(artist) {
         state.streak = 0;
 
         const failMessages = [
-            "Wrong drop!",
-            "Not quite! That's wrong.",
-            "Missed the drop...",
-            "Oops! Wrong artist.",
-            "Nope! Try again!"
+            "Wrong",
+            "Incorrect",
+            "No",
+            "Nope"
         ];
         const randomMsg = failMessages[Math.floor(Math.random() * failMessages.length)];
 
