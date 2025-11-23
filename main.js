@@ -7,7 +7,8 @@ const state = {
     isPlaying: false,
     player: null,
     isPlayerReady: false,
-    playbackTimeout: null
+    playbackTimeout: null,
+    currentStartTime: 0
 };
 
 // DOM Elements
@@ -85,6 +86,8 @@ function loadRandomSong() {
             startTime = Math.floor(Math.random() * maxStart);
         }
 
+        state.currentStartTime = startTime;
+
         state.player.cueVideoById({
             videoId: state.currentSong.youtubeId,
             startSeconds: startTime
@@ -105,7 +108,13 @@ function playSong() {
             clearTimeout(state.playbackTimeout);
         }
 
-        state.player.playVideo();
+        // Use loadVideoById to ensure playback starts reliably
+        // This fixes the issue where playVideo() sometimes fails after cueing
+        state.player.loadVideoById({
+            videoId: state.currentSong.youtubeId,
+            startSeconds: state.currentStartTime
+        });
+
         state.isPlaying = true;
         statusMsg.textContent = "Name that bass drop!";
         statusMsg.style.color = "var(--text-color)";
