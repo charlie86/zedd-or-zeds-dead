@@ -316,7 +316,7 @@ main {
 /* Mobile Layout */
 @media (max-width: 600px) {
     #app {
-        padding: 1.25rem;
+        padding: 2rem 1.25rem 1.25rem;
     }
 
     h1 {
@@ -334,7 +334,7 @@ main {
     }
 
     header {
-        margin-bottom: 1.5rem;
+        margin-bottom: 2.5rem;
     }
 
     .game-container {
