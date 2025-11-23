@@ -93,8 +93,16 @@ def main():
                     # Remove non-songs
                     if ('interview' in title or 'review' in title or 'reaction' in title or 
                         'podcast' in title or 'episode' in title or 'out now' in title or 
-                        'out next week' in title or 'is out' in title or
-                        'teaser' in title or 'trailer' in title or 'full album' in title):
+                        'out next week' in title or 'is out' in title or 'out this friday' in title or
+                        'teaser' in title or 'trailer' in title or 'full album' in title or
+                        'making of' in title or 'behind the scenes' in title or 'recap' in title or
+                        'event #' in title or 'thank you' in title or 'residency' in title or
+                        'shorts' in title or 'sound check' in title or 'scariest flight' in title or
+                        'super nintendo world' in title or 'returns to' in title or
+                        'live @' in title or 'live at' in title or 'vertical video' in title or
+                        'waltz video' in title or 'dragon ball daima' in title or
+                        'zedd in the park' in title or 'tour' in title or 'edc mexico' in title or
+                        'ultra china' in title or 'ultra japan' in title or 'true colors - event' in title):
                         continue
                         
                     filtered_items.append(item)

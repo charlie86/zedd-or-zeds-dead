@@ -2,20 +2,11 @@ export const songs = [
     {
         "id": "zedd-JzpxJcJwDZ0",
         "artist": "Zedd",
-        "title": "Zedd &amp; Jasmine Thompson - Funny (Lyric Video)",
+        "title": "Zedd &amp Jasmine Thompson - Funny (Lyric Video)",
         "youtubeId": "JzpxJcJwDZ0",
         "startTime": 37,
         "duration": 15,
         "totalDuration": 222
-    },
-    {
-        "id": "zedd-TT32mIg4oqg",
-        "artist": "Zedd",
-        "title": "ZEDD LIVE @ ULTRA MUSIC FESTIVAL MIAMI (2025)",
-        "youtubeId": "TT32mIg4oqg",
-        "startTime": 2710,
-        "duration": 15,
-        "totalDuration": 3496
     },
     {
         "id": "zedd-gtFA0Ba6u0E",
@@ -45,18 +36,9 @@ export const songs = [
         "totalDuration": 200
     },
     {
-        "id": "zedd-oVwEiNdpKeE",
-        "artist": "Zedd",
-        "title": "Zedd - Live at Ultra Music Festival Miami 2017",
-        "youtubeId": "oVwEiNdpKeE",
-        "startTime": 2072,
-        "duration": 15,
-        "totalDuration": 3556
-    },
-    {
         "id": "zedd--qnyd7Ht9uc",
         "artist": "Zedd",
-        "title": "Zedd &amp; Elley Duh\u00e9 - Happy Now (Lyrics)",
+        "title": "Zedd &amp Elley Duh\u00e9 - Happy Now (Lyrics)",
         "youtubeId": "-qnyd7Ht9uc",
         "startTime": 52,
         "duration": 15,
@@ -65,47 +47,20 @@ export const songs = [
     {
         "id": "zedd-3XENIq1qGFg",
         "artist": "Zedd",
-        "title": "Zedd &amp; Cory Wong - Telos Medley (Live from Lollapalooza India)",
+        "title": "Zedd &amp Cory Wong - Telos Medley (Live from Lollapalooza India)",
         "youtubeId": "3XENIq1qGFg",
         "startTime": 336,
         "duration": 15,
         "totalDuration": 440
     },
     {
-        "id": "zedd-fkrqJL4TNLU",
-        "artist": "Zedd",
-        "title": "ZEDD LIVE @ COACHELLA 2025",
-        "youtubeId": "fkrqJL4TNLU",
-        "startTime": 2845,
-        "duration": 15,
-        "totalDuration": 3651
-    },
-    {
-        "id": "zedd-occ-41QGYNE",
-        "artist": "Zedd",
-        "title": "Zedd, Maren Morris, Grey - The Middle (Vertical Video)",
-        "youtubeId": "occ-41QGYNE",
-        "startTime": 139,
-        "duration": 15,
-        "totalDuration": 185
-    },
-    {
         "id": "zedd-DxzdRri8o6o",
         "artist": "Zedd",
-        "title": "Squid Game &amp; Do It To It (Zedd Edit)",
+        "title": "Squid Game &amp Do It To It (Zedd Edit)",
         "youtubeId": "DxzdRri8o6o",
         "startTime": 82,
         "duration": 15,
         "totalDuration": 180
-    },
-    {
-        "id": "zedd-_OGt4-691CU",
-        "artist": "Zedd",
-        "title": "Zedd - Live at Ultra Music Festival 2014",
-        "youtubeId": "_OGt4-691CU",
-        "startTime": 1195,
-        "duration": 15,
-        "totalDuration": 1287
     },
     {
         "id": "zedd-FPHhNuSdrYE",
@@ -124,15 +79,6 @@ export const songs = [
         "startTime": 59,
         "duration": 15,
         "totalDuration": 183
-    },
-    {
-        "id": "zedd-bUTJBAzyDf8",
-        "artist": "Zedd",
-        "title": "Zedd - Making Of &quot;Clarity&quot; Music Video",
-        "youtubeId": "bUTJBAzyDf8",
-        "startTime": 47,
-        "duration": 15,
-        "totalDuration": 157
     },
     {
         "id": "zedd-KYn9HtoP3vA",
@@ -180,33 +126,6 @@ export const songs = [
         "totalDuration": 362
     },
     {
-        "id": "zedd-Y7MNtlbsf_Q",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour: Tokyo, Japan",
-        "youtubeId": "Y7MNtlbsf_Q",
-        "startTime": 13,
-        "duration": 15,
-        "totalDuration": 35
-    },
-    {
-        "id": "zedd-cfq6iZ9aas4",
-        "artist": "Zedd",
-        "title": "This is why we Sound Check.. \ud83c\udfa4",
-        "youtubeId": "cfq6iZ9aas4",
-        "startTime": 8,
-        "duration": 15,
-        "totalDuration": 32
-    },
-    {
-        "id": "zedd-QIQ9RKx7Iho",
-        "artist": "Zedd",
-        "title": "Zedd - Ultra China/Japan 2018 Recap",
-        "youtubeId": "QIQ9RKx7Iho",
-        "startTime": 5,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
         "id": "zedd-zLzaZ_HXmjw",
         "artist": "Zedd",
         "title": "Zedd - The Legend Of Zelda (Original Mix) (Official Audio)",
@@ -216,15 +135,6 @@ export const songs = [
         "totalDuration": 371
     },
     {
-        "id": "zedd-f6XUdXaafC0",
-        "artist": "Zedd",
-        "title": "Zedd - Behind The Scenes of Coachella",
-        "youtubeId": "f6XUdXaafC0",
-        "startTime": 13,
-        "duration": 15,
-        "totalDuration": 37
-    },
-    {
         "id": "zedd-s8Qa2t71aFE",
         "artist": "Zedd",
         "title": "Zedd - Shave It (Original Mix) (Official Audio)",
@@ -232,15 +142,6 @@ export const songs = [
         "startTime": 270,
         "duration": 15,
         "totalDuration": 292
-    },
-    {
-        "id": "zedd-kUWeqSjE8aY",
-        "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Waltz Video)",
-        "youtubeId": "kUWeqSjE8aY",
-        "startTime": 47,
-        "duration": 15,
-        "totalDuration": 106
     },
     {
         "id": "zedd-K5hGevKd6tM",
@@ -259,42 +160,6 @@ export const songs = [
         "startTime": 1,
         "duration": 15,
         "totalDuration": 224
-    },
-    {
-        "id": "zedd-TL_AHCV4PDE",
-        "artist": "Zedd",
-        "title": "Zedd - Behind The Scenes of Coachella",
-        "youtubeId": "TL_AHCV4PDE",
-        "startTime": 16,
-        "duration": 15,
-        "totalDuration": 38
-    },
-    {
-        "id": "zedd-CPHVl7KlwnQ",
-        "artist": "Zedd",
-        "title": "Zedd - Making Of &quot;Spectrum&quot; Music Video",
-        "youtubeId": "CPHVl7KlwnQ",
-        "startTime": 120,
-        "duration": 15,
-        "totalDuration": 144
-    },
-    {
-        "id": "zedd-pQt6JeZChAQ",
-        "artist": "Zedd",
-        "title": "Thank you Ottawa!!! Finally got to play Out of Time for the first time ever \ud83e\udd72\ud83e\udef6",
-        "youtubeId": "pQt6JeZChAQ",
-        "startTime": 9,
-        "duration": 15,
-        "totalDuration": 32
-    },
-    {
-        "id": "zedd-HNnAdp919ps",
-        "artist": "Zedd",
-        "title": "Zedd - NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Anime Ver.) [Japanese Lyric Video]",
-        "youtubeId": "HNnAdp919ps",
-        "startTime": 29,
-        "duration": 15,
-        "totalDuration": 62
     },
     {
         "id": "zedd-pFw0xJpw8hs",
@@ -342,15 +207,6 @@ export const songs = [
         "totalDuration": 300
     },
     {
-        "id": "zedd-EyoOo4iuRbw",
-        "artist": "Zedd",
-        "title": "VEGAS!!! Catch my 2024 residency at #OMNIA, #TaoBeach &amp; #WetRepublic!! #TaoGroupHospitality #shorts",
-        "youtubeId": "EyoOo4iuRbw",
-        "startTime": 18,
-        "duration": 15,
-        "totalDuration": 54
-    },
-    {
         "id": "zedd-nqR5TNtKJz4",
         "artist": "Zedd",
         "title": "Zedd, Elley Duh\u00e9 - Happy Now (Marc Benjamin Remix)",
@@ -369,24 +225,6 @@ export const songs = [
         "totalDuration": 234
     },
     {
-        "id": "zedd-yLDODdkt9p4",
-        "artist": "Zedd",
-        "title": "OUR NEW SONG, \u201cFOLLOW\u201d OUT THIS FRIDAY! MARTIN GARRIX LET\u2019S GO!",
-        "youtubeId": "yLDODdkt9p4",
-        "startTime": 1,
-        "duration": 15,
-        "totalDuration": 31
-    },
-    {
-        "id": "zedd-y7xi9SkENfY",
-        "artist": "Zedd",
-        "title": "Zedd - Lucky feat. Remi Wolf (Behind The Scenes)",
-        "youtubeId": "y7xi9SkENfY",
-        "startTime": 20,
-        "duration": 15,
-        "totalDuration": 72
-    },
-    {
         "id": "zedd-vrGdYGzlQO4",
         "artist": "Zedd",
         "title": "Zedd - Telos (Minimix)",
@@ -396,18 +234,9 @@ export const songs = [
         "totalDuration": 80
     },
     {
-        "id": "zedd-WBgy8yVpSx8",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #5, Denver CO - &quot;Illusion&quot;",
-        "youtubeId": "WBgy8yVpSx8",
-        "startTime": 101,
-        "duration": 15,
-        "totalDuration": 165
-    },
-    {
         "id": "zedd-rO4AszPXUjU",
         "artist": "Zedd",
-        "title": "Zedd True Colors - Empire State Building - &quot;True Colors&quot;",
+        "title": "Zedd True Colors - Empire State Building - &quotTrue Colors&quot",
         "youtubeId": "rO4AszPXUjU",
         "startTime": 64,
         "duration": 15,
@@ -416,7 +245,7 @@ export const songs = [
     {
         "id": "zedd-Lk2UXk2jXIk",
         "artist": "Zedd",
-        "title": "Zedd &amp; Dillon Francis - Stages (Unoriginal Mix)",
+        "title": "Zedd &amp Dillon Francis - Stages (Unoriginal Mix)",
         "youtubeId": "Lk2UXk2jXIk",
         "startTime": 22,
         "duration": 15,
@@ -432,24 +261,6 @@ export const songs = [
         "totalDuration": 292
     },
     {
-        "id": "zedd-yLDODdkt9p4",
-        "artist": "Zedd",
-        "title": "OUR NEW SONG, \u201cFOLLOW\u201d OUT THIS FRIDAY! MARTIN GARRIX LET\u2019S GO!",
-        "youtubeId": "yLDODdkt9p4",
-        "startTime": 4,
-        "duration": 15,
-        "totalDuration": 31
-    },
-    {
-        "id": "zedd-59Vy87LTEhA",
-        "artist": "Zedd",
-        "title": "Zedd - Europe Tour 2017 Recap",
-        "youtubeId": "59Vy87LTEhA",
-        "startTime": 93,
-        "duration": 15,
-        "totalDuration": 131
-    },
-    {
         "id": "zedd-rQu6_Iv_-H0",
         "artist": "Zedd",
         "title": "Zedd - Dovregubben (Original Mix) (Official Audio)",
@@ -459,40 +270,13 @@ export const songs = [
         "totalDuration": 300
     },
     {
-        "id": "zedd-3DIFSqs_Fuw",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour: North America Recap",
-        "youtubeId": "3DIFSqs_Fuw",
-        "startTime": 2,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
-        "id": "zedd-QIQ9RKx7Iho",
-        "artist": "Zedd",
-        "title": "Zedd - Ultra China/Japan 2018 Recap",
-        "youtubeId": "QIQ9RKx7Iho",
-        "startTime": 28,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
         "id": "zedd-Aloxz8556T8",
         "artist": "Zedd",
-        "title": "Zedd &amp; Jasmine Thompson - Funny (Ellis Remix)",
+        "title": "Zedd &amp Jasmine Thompson - Funny (Ellis Remix)",
         "youtubeId": "Aloxz8556T8",
         "startTime": 62,
         "duration": 15,
         "totalDuration": 155
-    },
-    {
-        "id": "zedd-53lTVeo5_Jc",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour: Hong Kong, China",
-        "youtubeId": "53lTVeo5_Jc",
-        "startTime": 0,
-        "duration": 15,
-        "totalDuration": 40
     },
     {
         "id": "zedd-actYt8WkdvE",
@@ -524,20 +308,11 @@ export const songs = [
     {
         "id": "zedd-CCNyou-w9lw",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Osrin Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Osrin Remix)",
         "youtubeId": "CCNyou-w9lw",
         "startTime": 63,
         "duration": 15,
         "totalDuration": 178
-    },
-    {
-        "id": "zedd-NW_qdSTkGJ0",
-        "artist": "Zedd",
-        "title": "Zedd - EDC Mexico 2020 Recap",
-        "youtubeId": "NW_qdSTkGJ0",
-        "startTime": 96,
-        "duration": 15,
-        "totalDuration": 137
     },
     {
         "id": "zedd-PieJAouqTrM",
@@ -558,18 +333,9 @@ export const songs = [
         "totalDuration": 355
     },
     {
-        "id": "zedd-jWNVIykF8WY",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #7, Philadelphia PA - &quot;Papercut&quot;",
-        "youtubeId": "jWNVIykF8WY",
-        "startTime": 63,
-        "duration": 15,
-        "totalDuration": 137
-    },
-    {
         "id": "zedd-Ph30fFQHdjo",
         "artist": "Zedd",
-        "title": "Zedd &amp; Jasmine Thompson - Funny (Breathe Carolina Remix)",
+        "title": "Zedd &amp Jasmine Thompson - Funny (Breathe Carolina Remix)",
         "youtubeId": "Ph30fFQHdjo",
         "startTime": 66,
         "duration": 15,
@@ -585,24 +351,6 @@ export const songs = [
         "totalDuration": 218
     },
     {
-        "id": "zedd--V_9icZp-VY",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #10, New York City NY - &quot;True Colors&quot;",
-        "youtubeId": "-V_9icZp-VY",
-        "startTime": 32,
-        "duration": 15,
-        "totalDuration": 185
-    },
-    {
-        "id": "zedd-f6XUdXaafC0",
-        "artist": "Zedd",
-        "title": "Zedd - Behind The Scenes of Coachella",
-        "youtubeId": "f6XUdXaafC0",
-        "startTime": 8,
-        "duration": 15,
-        "totalDuration": 37
-    },
-    {
         "id": "zedd-Mf4IxQAxt8o",
         "artist": "Zedd",
         "title": "Zedd - Spectrum (feat. Matthew Koma) [Armin van Buuren Remix]",
@@ -610,24 +358,6 @@ export const songs = [
         "startTime": 349,
         "duration": 15,
         "totalDuration": 390
-    },
-    {
-        "id": "zedd-cfq6iZ9aas4",
-        "artist": "Zedd",
-        "title": "This is why we Sound Check.. \ud83c\udfa4",
-        "youtubeId": "cfq6iZ9aas4",
-        "startTime": 12,
-        "duration": 15,
-        "totalDuration": 32
-    },
-    {
-        "id": "zedd-FElzmV-cO88",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour: Kobe, Japan",
-        "youtubeId": "FElzmV-cO88",
-        "startTime": 9,
-        "duration": 15,
-        "totalDuration": 35
     },
     {
         "id": "zedd-FGL4w3yWzZE",
@@ -641,7 +371,7 @@ export const songs = [
     {
         "id": "zedd-x8QPPmhryEA",
         "artist": "Zedd",
-        "title": "Zedd &amp; Skrillex - Don&#39;t Slam The Cinema",
+        "title": "Zedd &amp Skrillex - Don&#39t Slam The Cinema",
         "youtubeId": "x8QPPmhryEA",
         "startTime": 164,
         "duration": 15,
@@ -659,25 +389,16 @@ export const songs = [
     {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Grant Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
         "youtubeId": "A2ZpbmatNV0",
         "startTime": 6,
         "duration": 15,
         "totalDuration": 219
     },
     {
-        "id": "zedd-rjR2PDTmaBE",
-        "artist": "Zedd",
-        "title": "ZEDD IN THE PARK Returns to Los Angeles on Sept 7",
-        "youtubeId": "rjR2PDTmaBE",
-        "startTime": 78,
-        "duration": 15,
-        "totalDuration": 98
-    },
-    {
         "id": "zedd-acepQxFF8oE",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (Jonas Blue Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (Jonas Blue Remix)",
         "youtubeId": "acepQxFF8oE",
         "startTime": 132,
         "duration": 15,
@@ -686,7 +407,7 @@ export const songs = [
     {
         "id": "zedd-yoh8IfdrqV0",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (Tritonal Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (Tritonal Remix)",
         "youtubeId": "yoh8IfdrqV0",
         "startTime": 188,
         "duration": 15,
@@ -711,78 +432,6 @@ export const songs = [
         "totalDuration": 161
     },
     {
-        "id": "zedd-7FZJTmtUkpQ",
-        "artist": "Zedd",
-        "title": "ZEDD IN THE PARK 2022 RECAP",
-        "youtubeId": "7FZJTmtUkpQ",
-        "startTime": 28,
-        "duration": 15,
-        "totalDuration": 91
-    },
-    {
-        "id": "zedd-gYlz3GDbf7c",
-        "artist": "Zedd",
-        "title": "Zedd - Jaka Jaan feat. C&amp;K (Dragon Ball DAIMA Opening Theme - Anime Ver.) [Japanese Lyric Video]",
-        "youtubeId": "gYlz3GDbf7c",
-        "startTime": 11,
-        "duration": 15,
-        "totalDuration": 93
-    },
-    {
-        "id": "zedd-pQt6JeZChAQ",
-        "artist": "Zedd",
-        "title": "Thank you Ottawa!!! Finally got to play Out of Time for the first time ever \ud83e\udd72\ud83e\udef6",
-        "youtubeId": "pQt6JeZChAQ",
-        "startTime": 11,
-        "duration": 15,
-        "totalDuration": 32
-    },
-    {
-        "id": "zedd-y7xi9SkENfY",
-        "artist": "Zedd",
-        "title": "Zedd - Lucky feat. Remi Wolf (Behind The Scenes)",
-        "youtubeId": "y7xi9SkENfY",
-        "startTime": 29,
-        "duration": 15,
-        "totalDuration": 72
-    },
-    {
-        "id": "zedd--mK1ODCc-R8",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #9, Las Vegas NV - &quot;Done With Love&quot;",
-        "youtubeId": "-mK1ODCc-R8",
-        "startTime": 51,
-        "duration": 15,
-        "totalDuration": 145
-    },
-    {
-        "id": "zedd-jWNVIykF8WY",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #7, Philadelphia PA - &quot;Papercut&quot;",
-        "youtubeId": "jWNVIykF8WY",
-        "startTime": 57,
-        "duration": 15,
-        "totalDuration": 137
-    },
-    {
-        "id": "zedd-Us-id2WdFMU",
-        "artist": "Zedd",
-        "title": "Telos Tour 2024 - Seattle Recap",
-        "youtubeId": "Us-id2WdFMU",
-        "startTime": 5,
-        "duration": 15,
-        "totalDuration": 33
-    },
-    {
-        "id": "zedd-86J9UDO0-Is",
-        "artist": "Zedd",
-        "title": "Went to SUPER NINTENDO WORLD as Mario \ud83d\udc68\ud83c\udffb",
-        "youtubeId": "86J9UDO0-Is",
-        "startTime": 27,
-        "duration": 15,
-        "totalDuration": 49
-    },
-    {
         "id": "zedd-cWKAUQQMc5g",
         "artist": "Zedd",
         "title": "Zedd, Elley Duh\u00e9 - Happy Now (MXXWLL Remix)",
@@ -792,36 +441,18 @@ export const songs = [
         "totalDuration": 127
     },
     {
-        "id": "zedd-qDH6d4erpSU",
-        "artist": "Zedd",
-        "title": "Scariest flight of my life!",
-        "youtubeId": "qDH6d4erpSU",
-        "startTime": 22,
-        "duration": 15,
-        "totalDuration": 60
-    },
-    {
         "id": "zedd-3RBgJH0QNpg",
         "artist": "Zedd",
-        "title": "Zedd &amp; Cory Wong  - Sona (live from Lollapalooza India)",
+        "title": "Zedd &amp Cory Wong  - Sona (live from Lollapalooza India)",
         "youtubeId": "3RBgJH0QNpg",
         "startTime": 13,
         "duration": 15,
         "totalDuration": 34
     },
     {
-        "id": "zedd-pityvc0xrVA",
-        "artist": "Zedd",
-        "title": "Zedd - Europe Recap 2018",
-        "youtubeId": "pityvc0xrVA",
-        "startTime": 26,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
         "id": "zedd-yoh8IfdrqV0",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (Tritonal Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (Tritonal Remix)",
         "youtubeId": "yoh8IfdrqV0",
         "startTime": 43,
         "duration": 15,
@@ -830,7 +461,7 @@ export const songs = [
     {
         "id": "zedd-x8QPPmhryEA",
         "artist": "Zedd",
-        "title": "Zedd &amp; Skrillex - Don&#39;t Slam The Cinema",
+        "title": "Zedd &amp Skrillex - Don&#39t Slam The Cinema",
         "youtubeId": "x8QPPmhryEA",
         "startTime": 178,
         "duration": 15,
@@ -846,24 +477,6 @@ export const songs = [
         "totalDuration": 166
     },
     {
-        "id": "zedd-53lTVeo5_Jc",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour: Hong Kong, China",
-        "youtubeId": "53lTVeo5_Jc",
-        "startTime": 3,
-        "duration": 15,
-        "totalDuration": 40
-    },
-    {
-        "id": "zedd-4OilSNf5QjU",
-        "artist": "Zedd",
-        "title": "Zedd - 10 Year Recap",
-        "youtubeId": "4OilSNf5QjU",
-        "startTime": 14,
-        "duration": 15,
-        "totalDuration": 80
-    },
-    {
         "id": "zedd-t38i48LpKV4",
         "artist": "Zedd",
         "title": "Zedd - Spectrum (feat. Matthew Koma) [Acoustic Version]",
@@ -871,24 +484,6 @@ export const songs = [
         "startTime": 14,
         "duration": 15,
         "totalDuration": 110
-    },
-    {
-        "id": "zedd-a9iPpyxobzE",
-        "artist": "Zedd",
-        "title": "Zedd - The Middle (Live at SUMMER SONIC 2019)",
-        "youtubeId": "a9iPpyxobzE",
-        "startTime": 118,
-        "duration": 15,
-        "totalDuration": 230
-    },
-    {
-        "id": "zedd-NW_qdSTkGJ0",
-        "artist": "Zedd",
-        "title": "Zedd - EDC Mexico 2020 Recap",
-        "youtubeId": "NW_qdSTkGJ0",
-        "startTime": 99,
-        "duration": 15,
-        "totalDuration": 137
     },
     {
         "id": "zedd-1pVLQ9XLmh8",
@@ -900,49 +495,22 @@ export const songs = [
         "totalDuration": 59
     },
     {
-        "id": "zedd-rjR2PDTmaBE",
-        "artist": "Zedd",
-        "title": "ZEDD IN THE PARK Returns to Los Angeles on Sept 7",
-        "youtubeId": "rjR2PDTmaBE",
-        "startTime": 52,
-        "duration": 15,
-        "totalDuration": 98
-    },
-    {
         "id": "zedd-CCNyou-w9lw",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Osrin Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Osrin Remix)",
         "youtubeId": "CCNyou-w9lw",
         "startTime": 103,
         "duration": 15,
         "totalDuration": 178
     },
     {
-        "id": "zedd-8-UPTO9AGJw",
-        "artist": "Zedd",
-        "title": "ZEDD - TELOS TOUR 2024",
-        "youtubeId": "8-UPTO9AGJw",
-        "startTime": 17,
-        "duration": 15,
-        "totalDuration": 37
-    },
-    {
         "id": "zedd-acepQxFF8oE",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (Jonas Blue Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (Jonas Blue Remix)",
         "youtubeId": "acepQxFF8oE",
         "startTime": 6,
         "duration": 15,
         "totalDuration": 192
-    },
-    {
-        "id": "zedd-rDf1lJvxLbs",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #3 Phoenix, AZ - &quot;Bumble Bee&quot;",
-        "youtubeId": "rDf1lJvxLbs",
-        "startTime": 7,
-        "duration": 15,
-        "totalDuration": 91
     },
     {
         "id": "zedd-_HHpaMDXbEo",
@@ -956,38 +524,11 @@ export const songs = [
     {
         "id": "zedd-5-q1oB4vIgQ",
         "artist": "Zedd",
-        "title": "Zedd - presenting &#39;The Scorpion Move&#39; - OWSLA Tour 2011",
+        "title": "Zedd - presenting &#39The Scorpion Move&#39 - OWSLA Tour 2011",
         "youtubeId": "5-q1oB4vIgQ",
         "startTime": 30,
         "duration": 15,
         "totalDuration": 55
-    },
-    {
-        "id": "zedd-aA3mwr4UOyU",
-        "artist": "Zedd",
-        "title": "Zedd - Lost In Japan Remix (Live from Ultra Japan 2018)",
-        "youtubeId": "aA3mwr4UOyU",
-        "startTime": 65,
-        "duration": 15,
-        "totalDuration": 130
-    },
-    {
-        "id": "zedd-ktyGAtQBiJ0",
-        "artist": "Zedd",
-        "title": "Zedd - ECHO TOUR Pt. 1",
-        "youtubeId": "ktyGAtQBiJ0",
-        "startTime": 0,
-        "duration": 15,
-        "totalDuration": 60
-    },
-    {
-        "id": "zedd--V_9icZp-VY",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #10, New York City NY - &quot;True Colors&quot;",
-        "youtubeId": "-V_9icZp-VY",
-        "startTime": 152,
-        "duration": 15,
-        "totalDuration": 185
     },
     {
         "id": "zedd-FGL4w3yWzZE",
@@ -1026,18 +567,9 @@ export const songs = [
         "totalDuration": 181
     },
     {
-        "id": "zedd-9kRmogokbi0",
-        "artist": "Zedd",
-        "title": "ZEDD IN THE PARK 2024 LIVE ON @AppleMusic",
-        "youtubeId": "9kRmogokbi0",
-        "startTime": 19,
-        "duration": 15,
-        "totalDuration": 43
-    },
-    {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Grant Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
         "youtubeId": "A2ZpbmatNV0",
         "startTime": 29,
         "duration": 15,
@@ -1055,7 +587,7 @@ export const songs = [
     {
         "id": "zedd-mXHy4xfvq1s",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (The Kemist Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (The Kemist Remix)",
         "youtubeId": "mXHy4xfvq1s",
         "startTime": 104,
         "duration": 15,
@@ -1064,7 +596,7 @@ export const songs = [
     {
         "id": "zedd-PEcmULnKtVg",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Marc Benjamin Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Marc Benjamin Remix)",
         "youtubeId": "PEcmULnKtVg",
         "startTime": 71,
         "duration": 15,
@@ -1080,18 +612,9 @@ export const songs = [
         "totalDuration": 268
     },
     {
-        "id": "zedd-LRtJkYNUA2M",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour Japan 2018 Recap",
-        "youtubeId": "LRtJkYNUA2M",
-        "startTime": 34,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
         "id": "zedd-9UgzVlHL4WE",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Soulji Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Soulji Remix)",
         "youtubeId": "9UgzVlHL4WE",
         "startTime": 62,
         "duration": 15,
@@ -1109,7 +632,7 @@ export const songs = [
     {
         "id": "zedd-A2ZpbmatNV0",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Grant Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Grant Remix)",
         "youtubeId": "A2ZpbmatNV0",
         "startTime": 61,
         "duration": 15,
@@ -1118,25 +641,16 @@ export const songs = [
     {
         "id": "zedd-mXHy4xfvq1s",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (The Kemist Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (The Kemist Remix)",
         "youtubeId": "mXHy4xfvq1s",
         "startTime": 97,
         "duration": 15,
         "totalDuration": 218
     },
     {
-        "id": "zedd-LRtJkYNUA2M",
-        "artist": "Zedd",
-        "title": "Zedd - Echo Tour Japan 2018 Recap",
-        "youtubeId": "LRtJkYNUA2M",
-        "startTime": 25,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
         "id": "zedd-9UgzVlHL4WE",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Soulji Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Soulji Remix)",
         "youtubeId": "9UgzVlHL4WE",
         "startTime": 76,
         "duration": 15,
@@ -1145,7 +659,7 @@ export const songs = [
     {
         "id": "zedd-PEcmULnKtVg",
         "artist": "Zedd",
-        "title": "Zedd &amp; Kehlani - Good Thing (Marc Benjamin Remix)",
+        "title": "Zedd &amp Kehlani - Good Thing (Marc Benjamin Remix)",
         "youtubeId": "PEcmULnKtVg",
         "startTime": 83,
         "duration": 15,
@@ -1170,15 +684,6 @@ export const songs = [
         "totalDuration": 43
     },
     {
-        "id": "zedd-V3gimxPUE5o",
-        "artist": "Zedd",
-        "title": "Zedd - Coachella 2012 Recap",
-        "youtubeId": "V3gimxPUE5o",
-        "startTime": 51,
-        "duration": 15,
-        "totalDuration": 81
-    },
-    {
         "id": "zedd-BweEZKne4g8",
         "artist": "Zedd",
         "title": "Zedd - True Colors Tour: After-Movie",
@@ -1186,15 +691,6 @@ export const songs = [
         "startTime": 28,
         "duration": 15,
         "totalDuration": 240
-    },
-    {
-        "id": "zedd-WD_P345U7W8",
-        "artist": "Zedd",
-        "title": "Zedd - Jaka Jaan feat. C&amp;K (Dragon Ball DAIMA Opening Theme - Anime Ver.) [Japanese Lyric Video]",
-        "youtubeId": "WD_P345U7W8",
-        "startTime": 12,
-        "duration": 15,
-        "totalDuration": 38
     },
     {
         "id": "zedd-_HHpaMDXbEo",
@@ -1206,24 +702,6 @@ export const songs = [
         "totalDuration": 58
     },
     {
-        "id": "zedd-_1xq-KlRPj4",
-        "artist": "Zedd",
-        "title": "Zedd - Behind The Scenes of Coachella",
-        "youtubeId": "_1xq-KlRPj4",
-        "startTime": 204,
-        "duration": 15,
-        "totalDuration": 933
-    },
-    {
-        "id": "zedd-v9Yc_10pjzs",
-        "artist": "Zedd",
-        "title": "Zedd - True Colors Tour: West Coast Recap",
-        "youtubeId": "v9Yc_10pjzs",
-        "startTime": 3,
-        "duration": 15,
-        "totalDuration": 31
-    },
-    {
         "id": "zedd-MWTU-Dkwj5M",
         "artist": "Zedd",
         "title": "Zedd - Clarity (feat. Foxes) [Ti\u00ebsto Remix]",
@@ -1233,27 +711,9 @@ export const songs = [
         "totalDuration": 355
     },
     {
-        "id": "zedd-2Lp-WlCrG2c",
-        "artist": "Zedd",
-        "title": "Take me back to Zedd In The Park!!!! The @googleplay  Playground was incredible \ud83e\udd2f\ud83d\ude4c!! #GoPlay #Ad",
-        "youtubeId": "2Lp-WlCrG2c",
-        "startTime": 34,
-        "duration": 15,
-        "totalDuration": 58
-    },
-    {
-        "id": "zedd-pityvc0xrVA",
-        "artist": "Zedd",
-        "title": "Zedd - Europe Recap 2018",
-        "youtubeId": "pityvc0xrVA",
-        "startTime": 1,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
         "id": "zedd-m3aiT-U8068",
         "artist": "Zedd",
-        "title": "Zedd &amp; Alessia Cara - Stay (Lophiile Remix)",
+        "title": "Zedd &amp Alessia Cara - Stay (Lophiile Remix)",
         "youtubeId": "m3aiT-U8068",
         "startTime": 142,
         "duration": 15,
@@ -1287,24 +747,6 @@ export const songs = [
         "totalDuration": 56
     },
     {
-        "id": "zedd-9cony5uC1AQ",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #8, Atlanta GA - &quot;Daisy&quot;",
-        "youtubeId": "9cony5uC1AQ",
-        "startTime": 24,
-        "duration": 15,
-        "totalDuration": 114
-    },
-    {
-        "id": "zedd-R-WmbelNQzs",
-        "artist": "Zedd",
-        "title": "A trip to EDC\u2026 by Wes Anderson #shorts #wesanderson #wesandersontrend   #accidentallywesanderson",
-        "youtubeId": "R-WmbelNQzs",
-        "startTime": 7,
-        "duration": 15,
-        "totalDuration": 31
-    },
-    {
         "id": "zedd-yklonMyRVjE",
         "artist": "Zedd",
         "title": "Zedd - True Colors Tour: Madison Square Garden",
@@ -1314,15 +756,6 @@ export const songs = [
         "totalDuration": 94
     },
     {
-        "id": "zedd-GO5g_paUkts",
-        "artist": "Zedd",
-        "title": "Zedd - Mexico 2018 Recap (Omnia Cabo &amp; EDC Mexico)",
-        "youtubeId": "GO5g_paUkts",
-        "startTime": 18,
-        "duration": 15,
-        "totalDuration": 59
-    },
-    {
         "id": "zedd-P4CIakE_Vyw",
         "artist": "Zedd",
         "title": "The debut of El Zedd \ud83c\uddf2\ud83c\uddfd",
@@ -1330,15 +763,6 @@ export const songs = [
         "startTime": 16,
         "duration": 15,
         "totalDuration": 41
-    },
-    {
-        "id": "zedd-x_f7n8r6WqU",
-        "artist": "Zedd",
-        "title": "THANK YOU FOR AN AMAZING 2022 \u2665\ufe0f",
-        "youtubeId": "x_f7n8r6WqU",
-        "startTime": 20,
-        "duration": 15,
-        "totalDuration": 56
     },
     {
         "id": "zedd-5xNZUoLEBSY",
@@ -1359,24 +783,6 @@ export const songs = [
         "totalDuration": 56
     },
     {
-        "id": "zedd-_6SyKc9TH7c",
-        "artist": "Zedd",
-        "title": "These guys get it on the first take every time\u2026 ;) #Shorts",
-        "youtubeId": "_6SyKc9TH7c",
-        "startTime": 11,
-        "duration": 15,
-        "totalDuration": 84
-    },
-    {
-        "id": "zedd-Ffhd-rOj01M",
-        "artist": "Zedd",
-        "title": "Zedd - Asia Tour 2019 Recap",
-        "youtubeId": "Ffhd-rOj01M",
-        "startTime": 109,
-        "duration": 15,
-        "totalDuration": 166
-    },
-    {
         "id": "zedd-fxXJQkpCLyU",
         "artist": "Zedd",
         "title": "Zedd - Spectrum (feat. Matthew Koma) [Arty Remix]",
@@ -1386,81 +792,18 @@ export const songs = [
         "totalDuration": 365
     },
     {
-        "id": "zedd-UURlr_bEmnc",
-        "artist": "Zedd",
-        "title": "LAS VEGAS!! TOMORROW we go again at Zouk Nightclub \ud83c\udf7e!!! #Shorts",
-        "youtubeId": "UURlr_bEmnc",
-        "startTime": 11,
-        "duration": 15,
-        "totalDuration": 36
-    },
-    {
-        "id": "zedd-JmLjua3kfWU",
-        "artist": "Zedd",
-        "title": "ZEDD IN THE PARK Returns to Los Angeles on July 8",
-        "youtubeId": "JmLjua3kfWU",
-        "startTime": 11,
-        "duration": 15,
-        "totalDuration": 61
-    },
-    {
-        "id": "zedd-KBt5c21KVsI",
-        "artist": "Zedd",
-        "title": "Clarity Orchestral Concert Documentary #Shorts",
-        "youtubeId": "KBt5c21KVsI",
-        "startTime": 22,
-        "duration": 15,
-        "totalDuration": 52
-    },
-    {
         "id": "zedd-BPzTsyZ-7fU",
         "artist": "Zedd",
-        "title": "Zedd - Spectrum (feat. Matthew Koma) [A-Trak &amp; Clockwork Remix]",
+        "title": "Zedd - Spectrum (feat. Matthew Koma) [A-Trak &amp Clockwork Remix]",
         "youtubeId": "BPzTsyZ-7fU",
         "startTime": 184,
         "duration": 15,
         "totalDuration": 305
     },
     {
-        "id": "zedd-YTqVfimuWxs",
-        "artist": "Zedd",
-        "title": "CHAD &amp; JT TOUR ZEDD IN THE PARK",
-        "youtubeId": "YTqVfimuWxs",
-        "startTime": 14,
-        "duration": 15,
-        "totalDuration": 120
-    },
-    {
-        "id": "zedd--9CCp98_OW0",
-        "artist": "Zedd",
-        "title": "Zedd True Colors - Event #2, Los Angeles CA - &quot;Straight Into the Fire&quot;",
-        "youtubeId": "-9CCp98_OW0",
-        "startTime": 3,
-        "duration": 15,
-        "totalDuration": 125
-    },
-    {
-        "id": "zedd-BVpbZFxJn9o",
-        "artist": "Zedd",
-        "title": "Clarity 10-Year Anniversary - Orchestra Show Recap",
-        "youtubeId": "BVpbZFxJn9o",
-        "startTime": 36,
-        "duration": 15,
-        "totalDuration": 111
-    },
-    {
-        "id": "zedd-hcTKUglY4i8",
-        "artist": "Zedd",
-        "title": "Zedd - My 2017 Recap",
-        "youtubeId": "hcTKUglY4i8",
-        "startTime": 13,
-        "duration": 15,
-        "totalDuration": 60
-    },
-    {
         "id": "zedd-YxmuP2JtgYo",
         "artist": "Zedd",
-        "title": "Zedd &amp; Jasmine Thompson - Funny (Marc Benjamin Remix)",
+        "title": "Zedd &amp Jasmine Thompson - Funny (Marc Benjamin Remix)",
         "youtubeId": "YxmuP2JtgYo",
         "startTime": 139,
         "duration": 15,
@@ -1485,27 +828,9 @@ export const songs = [
         "totalDuration": 48
     },
     {
-        "id": "zedd-x_f7n8r6WqU",
-        "artist": "Zedd",
-        "title": "THANK YOU FOR AN AMAZING 2022 \u2665\ufe0f",
-        "youtubeId": "x_f7n8r6WqU",
-        "startTime": 11,
-        "duration": 15,
-        "totalDuration": 56
-    },
-    {
-        "id": "zedd-UzyIlKPGTg0",
-        "artist": "Zedd",
-        "title": "Zedd - NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Anime Ver.)",
-        "youtubeId": "UzyIlKPGTg0",
-        "startTime": 24,
-        "duration": 15,
-        "totalDuration": 47
-    },
-    {
         "id": "zeds-dead-VJm7IPrBmLY",
         "artist": "Zeds Dead",
-        "title": "&quot;Lost You (feat. Twin Shadow &amp; D&#39;Angelo Lacy)&quot; (Official Video) | Zeds Dead",
+        "title": "&quotLost You (feat. Twin Shadow &amp D&#39Angelo Lacy)&quot (Official Video) | Zeds Dead",
         "youtubeId": "VJm7IPrBmLY",
         "startTime": 75,
         "duration": 15,
@@ -1550,7 +875,7 @@ export const songs = [
     {
         "id": "zeds-dead-WWHInsHJ_EA",
         "artist": "Zeds Dead",
-        "title": "&quot;You and I&quot; (Zeds Dead &amp; Omar LinX) (Official Music Video) | Zeds Dead",
+        "title": "&quotYou and I&quot (Zeds Dead &amp Omar LinX) (Official Music Video) | Zeds Dead",
         "youtubeId": "WWHInsHJ_EA",
         "startTime": 75,
         "duration": 15,
@@ -1595,7 +920,7 @@ export const songs = [
     {
         "id": "zeds-dead-H7fbnizq8cA",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - Catching Z&#39;s // VISUAL EXPERIENCE DOWNTEMPO MIXTAPE",
+        "title": "Zeds Dead - Catching Z&#39s // VISUAL EXPERIENCE DOWNTEMPO MIXTAPE",
         "youtubeId": "H7fbnizq8cA",
         "startTime": 673,
         "duration": 15,
@@ -1757,7 +1082,7 @@ export const songs = [
     {
         "id": "zeds-dead-WsnUg-dE-1o",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - DNA ft. Jadakiss &amp; Styles P",
+        "title": "Zeds Dead - DNA ft. Jadakiss &amp Styles P",
         "youtubeId": "WsnUg-dE-1o",
         "startTime": 120,
         "duration": 15,
@@ -1766,7 +1091,7 @@ export const songs = [
     {
         "id": "zeds-dead-yymWnXRIV-Q",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead &amp; 1000volts (Redman &amp; Jayceeoh) - KILL EM",
+        "title": "Zeds Dead &amp 1000volts (Redman &amp Jayceeoh) - KILL EM",
         "youtubeId": "yymWnXRIV-Q",
         "startTime": 111,
         "duration": 15,
@@ -1793,7 +1118,7 @@ export const songs = [
     {
         "id": "zeds-dead-rXtwACadNyw",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - Too Young (ft. Rivers Cuomo &amp; Pusha T)",
+        "title": "Zeds Dead - Too Young (ft. Rivers Cuomo &amp Pusha T)",
         "youtubeId": "rXtwACadNyw",
         "startTime": 3,
         "duration": 15,
@@ -1856,7 +1181,7 @@ export const songs = [
     {
         "id": "zeds-dead-C8RlvxHhhzY",
         "artist": "Zeds Dead",
-        "title": "&quot;Rudeboy&quot; (Zeds Dead &amp; Omar LinX) (Official Music Video) | Zeds Dead",
+        "title": "&quotRudeboy&quot (Zeds Dead &amp Omar LinX) (Official Music Video) | Zeds Dead",
         "youtubeId": "C8RlvxHhhzY",
         "startTime": 163,
         "duration": 15,
@@ -1865,7 +1190,7 @@ export const songs = [
     {
         "id": "zeds-dead-46HqvYOEcgc",
         "artist": "Zeds Dead",
-        "title": "&quot;Hadouken&quot; (Music Video - #SmirnoffHouse @Tomorrowland) | Zeds Dead",
+        "title": "&quotHadouken&quot (Music Video - #SmirnoffHouse @Tomorrowland) | Zeds Dead",
         "youtubeId": "46HqvYOEcgc",
         "startTime": 78,
         "duration": 15,
@@ -2009,7 +1334,7 @@ export const songs = [
     {
         "id": "zeds-dead-plLaK4QWKdE",
         "artist": "Zeds Dead",
-        "title": "The Prodigy - &quot;Breathe (Zeds Dead Remix)&quot; (Audio) | Zeds Dead",
+        "title": "The Prodigy - &quotBreathe (Zeds Dead Remix)&quot (Audio) | Zeds Dead",
         "youtubeId": "plLaK4QWKdE",
         "startTime": 100,
         "duration": 15,
@@ -2018,7 +1343,7 @@ export const songs = [
     {
         "id": "zeds-dead-2zX0sKxHXsw",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39;re cool ft. Jenna Pemkowski (Acoustic)",
+        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (Acoustic)",
         "youtubeId": "2zX0sKxHXsw",
         "startTime": 185,
         "duration": 15,
@@ -2045,7 +1370,7 @@ export const songs = [
     {
         "id": "zeds-dead-41ynFhE9kiQ",
         "artist": "Zeds Dead",
-        "title": "Broken Bells - &quot;Holding On For Life (Zeds Dead Remix)&quot; (Audio) | Zeds Dead",
+        "title": "Broken Bells - &quotHolding On For Life (Zeds Dead Remix)&quot (Audio) | Zeds Dead",
         "youtubeId": "41ynFhE9kiQ",
         "startTime": 0,
         "duration": 15,
@@ -2063,7 +1388,7 @@ export const songs = [
     {
         "id": "zeds-dead-bldPnqg5ZBU",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead&#39;s Northern Lights Bus Tour",
+        "title": "Zeds Dead&#39s Northern Lights Bus Tour",
         "youtubeId": "bldPnqg5ZBU",
         "startTime": 68,
         "duration": 15,
@@ -2072,7 +1397,7 @@ export const songs = [
     {
         "id": "zeds-dead-AuPn_tt4DB4",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39;re cool ft. Jenna Pemkowski (Acoustic Live Performance by Jason Leech)",
+        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (Acoustic Live Performance by Jason Leech)",
         "youtubeId": "AuPn_tt4DB4",
         "startTime": 198,
         "duration": 15,
@@ -2198,20 +1523,11 @@ export const songs = [
     {
         "id": "zeds-dead-efLdKPVYw-c",
         "artist": "Zeds Dead",
-        "title": "&quot;Ratchet&quot; (Audio) | Zeds Dead",
+        "title": "&quotRatchet&quot (Audio) | Zeds Dead",
         "youtubeId": "efLdKPVYw-c",
         "startTime": 56,
         "duration": 15,
         "totalDuration": 159
-    },
-    {
-        "id": "zeds-dead-R5RfXkWODsM",
-        "artist": "Zeds Dead",
-        "title": "Live at Camp Bisco 2013 (Tour Video) | Zeds Dead",
-        "youtubeId": "R5RfXkWODsM",
-        "startTime": 51,
-        "duration": 15,
-        "totalDuration": 71
     },
     {
         "id": "zeds-dead-R5g4cABTz9E",
@@ -2324,7 +1640,7 @@ export const songs = [
     {
         "id": "zeds-dead-Whe9_6Qo6zo",
         "artist": "Zeds Dead",
-        "title": "Colin Munroe feat. Pusha T - &quot;The Fight Of My Life (Zeds Dead Remix) (Audio) | Zeds Dead",
+        "title": "Colin Munroe feat. Pusha T - &quotThe Fight Of My Life (Zeds Dead Remix) (Audio) | Zeds Dead",
         "youtubeId": "Whe9_6Qo6zo",
         "startTime": 3,
         "duration": 15,
@@ -2342,7 +1658,7 @@ export const songs = [
     {
         "id": "zeds-dead-_4e-rNNGayA",
         "artist": "Zeds Dead",
-        "title": "Holy Ship 2014 - Scotch &amp; Cigar Evening (Promo) | Zeds Dead",
+        "title": "Holy Ship 2014 - Scotch &amp Cigar Evening (Promo) | Zeds Dead",
         "youtubeId": "_4e-rNNGayA",
         "startTime": 35,
         "duration": 15,
@@ -2394,15 +1710,6 @@ export const songs = [
         "totalDuration": 211
     },
     {
-        "id": "zeds-dead-t_F8NHsdjHc",
-        "artist": "Zeds Dead",
-        "title": "Making of the Video: Too Young ft. Rivers Cuomo and Pusha T",
-        "youtubeId": "t_F8NHsdjHc",
-        "startTime": 48,
-        "duration": 15,
-        "totalDuration": 122
-    },
-    {
         "id": "zeds-dead-OY6Ae8GDkCw",
         "artist": "Zeds Dead",
         "title": "Zeds Dead x MKLA - Alive (Plumpy Remix)",
@@ -2419,15 +1726,6 @@ export const songs = [
         "startTime": 2,
         "duration": 15,
         "totalDuration": 119
-    },
-    {
-        "id": "zeds-dead-GC72NP7ty0M",
-        "artist": "Zeds Dead",
-        "title": "NYE Run Recap (Tour Video) | Zeds Dead",
-        "youtubeId": "GC72NP7ty0M",
-        "startTime": 337,
-        "duration": 15,
-        "totalDuration": 467
     },
     {
         "id": "zeds-dead-UZ5GgBaQUmY",
@@ -2475,15 +1773,6 @@ export const songs = [
         "totalDuration": 115
     },
     {
-        "id": "zeds-dead-JeAuiS1WW_g",
-        "artist": "Zeds Dead",
-        "title": "Dead Rocks 2014 - Live at Red Rocks (Tour Video) | Zeds Dead",
-        "youtubeId": "JeAuiS1WW_g",
-        "startTime": 44,
-        "duration": 15,
-        "totalDuration": 83
-    },
-    {
         "id": "zeds-dead-Ho1qVCZnaCo",
         "artist": "Zeds Dead",
         "title": "2 NIght Stand Tour",
@@ -2500,15 +1789,6 @@ export const songs = [
         "startTime": 75,
         "duration": 15,
         "totalDuration": 143
-    },
-    {
-        "id": "zeds-dead-Ajor9fjVADc",
-        "artist": "Zeds Dead",
-        "title": "Dead Rocks 2014 - Live at Red Rocks (Promo) | Zeds Dead",
-        "youtubeId": "Ajor9fjVADc",
-        "startTime": 7,
-        "duration": 15,
-        "totalDuration": 106
     },
     {
         "id": "zeds-dead-JTroXtrPVQo",
@@ -2585,7 +1865,7 @@ export const songs = [
     {
         "id": "zeds-dead-D2RcE2BgocI",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39;re cool ft. Jenna Pemkowski (IMANU x QUIET BISON Remix)",
+        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (IMANU x QUIET BISON Remix)",
         "youtubeId": "D2RcE2BgocI",
         "startTime": 30,
         "duration": 15,
@@ -2630,7 +1910,7 @@ export const songs = [
     {
         "id": "zeds-dead-U8Tsi1KU2IU",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead x MKLA - Alive (X&amp;G Remix)",
+        "title": "Zeds Dead x MKLA - Alive (X&ampG Remix)",
         "youtubeId": "U8Tsi1KU2IU",
         "startTime": 28,
         "duration": 15,
@@ -2639,7 +1919,7 @@ export const songs = [
     {
         "id": "zeds-dead-tT5sQYLfMT4",
         "artist": "Zeds Dead",
-        "title": "Zeds Dead - i think you&#39;re cool ft. Jenna Pemkowski (Pocket Remix)",
+        "title": "Zeds Dead - i think you&#39re cool ft. Jenna Pemkowski (Pocket Remix)",
         "youtubeId": "tT5sQYLfMT4",
         "startTime": 19,
         "duration": 15,
