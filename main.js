@@ -175,10 +175,10 @@ function handleGuess(artist) {
         state.streak = 0;
 
         const failMessages = [
-            "Wrong",
-            "Incorrect",
-            "No",
-            "Nope"
+            "Wrong.",
+            "Incorrect.",
+            "No.",
+            "Nope."
         ];
         const randomMsg = failMessages[Math.floor(Math.random() * failMessages.length)];
 
