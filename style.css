@@ -367,11 +367,14 @@ main {
     }
 
     h1 {
-        gap: 0.1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+        /* Increased gap */
         font-size: 1.8rem;
-        /* Larger */
         line-height: 1.1;
-        margin-bottom: 0.5rem;
+        margin-bottom: 1rem;
+        /* Increased margin */
     }
 
     .divider {
