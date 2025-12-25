@@ -331,7 +331,7 @@ main {
 @media (max-width: 600px) {
     #app {
         padding: 1rem;
-        padding-top: 3.5rem;
+        padding-top: 1.5rem;
     }
 
     h1 {
@@ -340,7 +340,7 @@ main {
         gap: 0.35rem;
         font-size: 2.25rem;
         line-height: 1.1;
-        margin-bottom: 1.25rem;
+        margin-bottom: 0.5rem;
     }
 
     .divider {
@@ -349,7 +349,7 @@ main {
     }
 
     header {
-        margin-bottom: 3.5rem;
+        margin-bottom: 1.5rem;
     }
 
     .score-board {
@@ -367,7 +367,9 @@ main {
     .visualizer-container {
         width: 120px;
         height: 120px;
-        transform: translateY(-3rem);
+        margin-top: 0;
+        margin-bottom: 0;
+        transform: none;
     }
 
     .play-btn {
@@ -386,6 +388,7 @@ main {
 
     .choices {
         gap: 1rem;
+        margin-top: 1rem;
     }
 
     .choice-btn {
