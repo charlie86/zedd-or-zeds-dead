@@ -156,9 +156,9 @@ function handleGuess(artist) {
         state.streak += 1;
 
         const successMessages = [
-            "Correct",
-            "You got it",
-            "Nailed it"
+            "Correct!",
+            "You got it!",
+            "Nailed it!"
         ];
         const randomMsg = successMessages[Math.floor(Math.random() * successMessages.length)];
 
