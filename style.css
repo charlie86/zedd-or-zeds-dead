@@ -369,8 +369,8 @@ main {
     h1 {
         display: flex;
         flex-direction: column;
-        gap: 0.35rem;
-        /* Increased gap */
+        gap: 0.2rem;
+        /* Reduced gap as requested */
         font-size: 1.8rem;
         line-height: 1.1;
         margin-bottom: 1rem;
